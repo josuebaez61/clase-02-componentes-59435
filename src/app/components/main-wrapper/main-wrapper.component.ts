@@ -8,7 +8,8 @@ import { Component } from '@angular/core';
   </main>`,
   styles: `
     main {
-      padding: 20px
+      padding: 20px;
+      margin-left: 200px;
     }
   `,
 })
